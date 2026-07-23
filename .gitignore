@@ -1,0 +1,13 @@
+# Build folders
+Debug/
+Release/
+build/
+
+# Build artifacts
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
